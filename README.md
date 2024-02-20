@@ -9,3 +9,5 @@ File: Theme_NeonShopify.zip
 
 # Note:
 ## Removes the footer text of the site without paying
+
+# https://sekomirson.myshopify.com/
